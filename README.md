@@ -18,3 +18,6 @@
 
 ## Ch6
 - `Express` module 을 이용해 웹 서버를 만듭니다.
+
+## Ch7
+- `MySQL DB`를 이용해 봅니다.
