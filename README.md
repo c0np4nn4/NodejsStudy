@@ -21,3 +21,6 @@
 
 ## Ch7
 - `MySQL DB`를 이용해 봅니다.
+
+## Ch8
+- `MongoDB`를 통해 NoSQL DB 를 활용해봅니다.
